@@ -25,7 +25,7 @@ dependencies:
   file: ^7.0.0
   glob: ^2.1.2
   html: ">=0.15.0 <1.0.0"
-  http: ^1.2.1
+  http: ">=0.13.0 <2.0.0"
   meta: ^1.7.0
   path: ^1.8.3
   platform: ^3.1.4 # overridden for lowest versions compatibility
